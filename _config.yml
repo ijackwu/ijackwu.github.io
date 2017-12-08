@@ -25,6 +25,3 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-collections:
-    - themes
-    - designs
