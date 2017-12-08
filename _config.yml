@@ -29,6 +29,3 @@ exclude:
 # Disqus
 disqus:
   shortname: ijackwu
-
-plugins:
-  - jekyll-feed
