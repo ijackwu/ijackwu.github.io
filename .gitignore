@@ -3,4 +3,7 @@
 Gemfile.lock
 _site
 *.gem
+<<<<<<< HEAD
 .idea/
+=======
+>>>>>>> 3ee5937c98150043d94eddcc5f5788ab1d35b392
