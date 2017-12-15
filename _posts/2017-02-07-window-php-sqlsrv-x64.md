@@ -1,5 +1,5 @@
 ---
-title:'php5.6 sqlsrv x64 无法装'
+title: 'php5.6 sqlsrv x64 无法装'
 categories: php
 author: "酱油先生"
 ---
