@@ -11,7 +11,8 @@ Yii::$app->admin->loginUrl = ['default/login'];
 Yii::$app->homeUrl = "/admin/default/index";
 
 // 如果登录，并且不是站点管理员，直接退出
-if (!Yii::$app->admin->isGuest && Yii::$app->admin->identity->user_type != User::TYPE_ADMIN) {
+if (!Yii::$app->admin->isGuest && 
+	Yii::$app->admin->identity->user_type != User::TYPE_ADMIN) {
 	Yii::$app->admin->logout();
 }
 ```
