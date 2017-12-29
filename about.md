@@ -23,8 +23,6 @@ permalink: /about.html
 
 # 常用技能
 
-以下均为我熟练使用的技能
-
 - Web开发：PHP/HTML/JS
 - 操作系统相关：Linux/Nginx
 - Web框架：Yii/ThinkPHP
