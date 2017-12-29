@@ -4,12 +4,19 @@ title: About
 permalink: /about.html
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# 联系方式
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+- 手机：18692279072
+- Email：ijackwu365@gmail.com
+- QQ：54502750
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+# 个人信息
+
+ - 伍绍园/男/1987/未婚
+ - 大专/计算机网络专业 
+ - 工作年限：5+年
+ - 技术博客：http://ijackwu.github.com
+ - Github：http://github.com/ijackwu
+ - 期望职位：PHP高级程序员,项目主管
+ - 期望薪资：税前月薪15k~25k，特别喜欢的公司可例外
+ - 期望城市：深圳、广州
