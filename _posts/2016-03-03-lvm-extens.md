@@ -1,5 +1,5 @@
 ---
-title: "LVS 扩容 - 小记"
+title: "LVM 扩容 - 小记"
 category: "linux"
 ---
 
