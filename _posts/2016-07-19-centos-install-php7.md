@@ -1,5 +1,5 @@
 ---
-title:centos7 php7编译安装
+title: centos7 php7编译安装
 category: php
 ---
 
