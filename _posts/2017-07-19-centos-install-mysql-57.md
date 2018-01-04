@@ -1,5 +1,5 @@
 ---
-title: centos7 mysql 5.7.×编译安装
+title: "centos7 mysql 5.7.×编译安装"
 category: mysql
 ---
 
