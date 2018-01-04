@@ -1,5 +1,5 @@
 ---
-title: VirtualBox\: mount.vboxsf\: mounting failed with the error\: No such device centos
+title: "VirtualBox\: mount.vboxsf\: mounting failed with the error\: No such device centos"
 category: linux
 ---
 
