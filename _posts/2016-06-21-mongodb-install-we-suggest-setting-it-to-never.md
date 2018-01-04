@@ -1,5 +1,5 @@
 ---
-title:mogodb安装错误 We suggest setting it to 'never'
+title:`mogodb安装错误 We suggest setting it to 'never'`
 category: linux
 ---
 
