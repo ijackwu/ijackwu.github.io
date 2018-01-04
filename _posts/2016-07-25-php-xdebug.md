@@ -11,7 +11,7 @@ category: php
 
 * 安装 xdebug
 
-配置`xdebug` - `php.ini` 文件
+配置 `xdebug` - `php.ini` 文件
 ```
 [xdebug]
 zend_extension=/usr/lib64/php/modules/xdebug.so
