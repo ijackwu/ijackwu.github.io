@@ -1,0 +1,22 @@
+---
+title: "centos 7 systemctl service 控制脚本"
+category: "linux"
+---
+
+## systemctl php7 控制脚本
+
+```
+[Unit]
+Description=The PHP FastCGI Process Manager
+After=syslog.target network.target
+
+[Service]
+Type=simple
+PIDFile=/run/php-fpm.pid
+ExecStart=/usr/local/php7/sbin/php-fpm --nodaemonize --fpm-config /usr/local/php7/etc/php-fpm.conf
+ExecReload=/bin/kill -USR2 $MAINPID
+ExecStop=/bin/kill -SIGINT $MAINPID
+
+[Install]
+WantedBy=multi-user.target
+```
