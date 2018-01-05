@@ -1,5 +1,5 @@
 ---
-title: "mysql原来desc还有exlain作用'
+title: "mysql原来desc还有exlain作用"
 category: "mysql"
 ---
 

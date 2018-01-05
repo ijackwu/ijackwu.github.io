@@ -29,5 +29,5 @@ disqus:
   shortname: ijackwu
 
 # page
-paginate:5
+paginate: 5
 paginate_path: "page:num"
