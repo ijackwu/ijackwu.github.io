@@ -4,3 +4,6 @@
 [submodule "hugo-theme-jane"]
 	path = hugo-theme-jane
 	url = https://github.com/xianmin/hugo-theme-jane
+[submodule "themes/hugo-texify2"]
+	path = themes/hugo-texify2
+	url = https://github.com/weastur/hugo-texify2.git
