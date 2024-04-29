@@ -1,10 +1,18 @@
-+++
-title = 'mysql学习记录01'
-date = 2024-04-28T10:35:41+08:00
-draft = true
-+++
+---
+title: 'mysql学习记录01'
+# description: mysql学习笔记，字符集
+date: 2024-04-28T10:35:41+08:00
+draft: false
+categories:
+    - mysql
+tags:
+    - mysql
+    - mysql字符集
+---
 
-### mysql字符比较集合后缀命名含义（Collation Suffix Meanings）
+### mysql字符比较集合后缀命名含义
+
+Collation Suffix Meanings
 
 |    Suffix    |     Meaning   |     Descript |
 |:---------:| :---------------------------:  | :--------------: |
@@ -42,7 +50,10 @@ mysql> show variables like 'character_set_%';
 +--------------------------+----------------------------+
 ```
 
-写`php`的时候以前经常执行一句`sql`语句 `set names utf8` 是以下几句的简写
+写`php`的时候以前经常执行一句`sql`语句 `set names utf8`,
+一直没有去深究过哈，只记得是乱码的时候用
+
+以下几句的简写：
 
 ```sql
 set character_set_client = utf8; 
@@ -50,4 +61,4 @@ set character_set_connection = utf8;
 set character_set_results = utf8;
 ```
 
-> 一直没有去深究过哈，只记得是乱码的时候用
+> 
