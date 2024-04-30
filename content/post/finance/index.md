@@ -25,10 +25,10 @@ draft: true
 
 四大基本假设:
 
-- 会计主体
-- 持续经营
-- 会计分期
-- 货币计量
+1. 会计主体
+2. 持续经营
+3. 会计分期
+4. 货币计量
 
-看到这里 https://www.bilibili.com/video/BV1xH4y1X7hV?p=4&spm_id_from=pageDriver&vd_source=a3d00819fb8c22aa00b1e8713cf975e7
+看到这里 <https://www.bilibili.com/video/BV1xH4y1X7hV?p=4&spm_id_from=pageDriver&vd_source=a3d00819fb8c22aa00b1e8713cf975e7>
 
