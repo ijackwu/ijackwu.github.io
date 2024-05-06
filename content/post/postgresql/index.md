@@ -87,4 +87,8 @@ test=# \d
 
 test=# 
 
+test=# select * from person offset 5 fetch first 5 row only;
+test=# select * from person offset 5 limit 5;
+
+
 ```
