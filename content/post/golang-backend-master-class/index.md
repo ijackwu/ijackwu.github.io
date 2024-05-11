@@ -17,3 +17,5 @@ draft: true
 数据库图形管理 <https://tableplus.com/>
 
 golang 数据库迁移 <https://github.com/golang-migrate/>
+
+generate && stringer <https://go.dev/blog/generate>
