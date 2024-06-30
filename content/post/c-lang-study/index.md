@@ -14,4 +14,4 @@ draft: true
 
 <https://github.com/spring2go/cs_study_plan>
 
-https://sp24.datastructur.es/labs/lab02/
+    <https://sp24.datastructur.es/labs/lab02/>
