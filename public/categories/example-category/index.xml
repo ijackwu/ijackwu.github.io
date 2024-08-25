@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example Category on Jackwu&#39; Blog</title>
+    <link>/categories/example-category/</link>
+    <description>Jackwu&#39; Blog (Example Category)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate>
+    
+    <atom:link href="/categories/example-category/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>/post/hello-world/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hello-world/</guid>
+      <description>&lt;p&gt;Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
+&lt;p&gt;For more information about this theme, check the documentation: &lt;a href=&#34;https://stack.jimmycai.com/&#34;&gt;https://stack.jimmycai.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Want a site like this? Check out &lt;a href=&#34;https://github.com/CaiJimmy/hugo-theme-stack-starter&#34;&gt;hugo-theme-stack-stater&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;cover.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Photo by &lt;a href=&#34;https://unsplash.com/@pawel_czerwinski&#34;&gt;Pawel Czerwinski&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

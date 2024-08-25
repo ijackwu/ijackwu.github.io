@@ -1,0 +1,10 @@
+
+{{ if .IsHome }}
+<h1 class="site-title noselect">
+    <a href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Title }}</a>
+</h1>
+{{ else }}
+<div class="site-title noselect">
+    <a href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Title }}</a>
+</div>
+{{ end }}

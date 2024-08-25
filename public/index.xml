@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jackwu&#39; Blog</title>
+    <link>/</link>
+    <description>Jackwu&#39; Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 25 Aug 2024 17:20:17 +0800</lastBuildDate>
+    
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>/post/hello-world/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hello-world/</guid>
+      <description>&lt;p&gt;Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
+&lt;p&gt;For more information about this theme, check the documentation: &lt;a href=&#34;https://stack.jimmycai.com/&#34;&gt;https://stack.jimmycai.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Want a site like this? Check out &lt;a href=&#34;https://github.com/CaiJimmy/hugo-theme-stack-starter&#34;&gt;hugo-theme-stack-stater&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;cover.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Photo by &lt;a href=&#34;https://unsplash.com/@pawel_czerwinski&#34;&gt;Pawel Czerwinski&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>各种收藏记录</title>
+      <link>/post/favrite/</link>
+      <pubDate>Sun, 25 Aug 2024 17:20:17 +0800</pubDate>
+      
+      <guid>/post/favrite/</guid>
+      <description>&lt;h2 id=&#34;bulma-css样式&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#bulma-css%e6%a0%b7%e5%bc%8f&#34;&gt;
+        #
+    &lt;/a&gt;
+    Bulma css样式
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://bulma.io/&#34;&gt;https://bulma.io/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Study Log</title>
+      <link>/post/study/</link>
+      <pubDate>Wed, 03 Jul 2024 11:51:37 +0800</pubDate>
+      
+      <guid>/post/study/</guid>
+      <description>&lt;h2 id=&#34;conventional-commits&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#conventional-commits&#34;&gt;
+        #
+    &lt;/a&gt;
+    Conventional Commits
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;约定式提交 &lt;a href=&#34;https://www.conventionalcommits.org/en/v1.0.0/&#34;&gt;Conventional Commits&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;cz-cli&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#cz-cli&#34;&gt;
+        #
+    &lt;/a&gt;
+    cz-cli
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;git提交备注使用工具&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/commitizen/cz-cli&#34;&gt;https://github.com/commitizen/cz-cli&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;git-chglog&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#git-chglog&#34;&gt;
+        #
+    &lt;/a&gt;
+    git-chglog
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;Changelog工具&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/git-chglog/git-chglog&#34;&gt;https://github.com/git-chglog/git-chglog&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>github访问慢，资源无法下载简单解决方案</title>
+      <link>/post/github/github-accsee-slow/</link>
+      <pubDate>Fri, 03 May 2024 21:45:01 +0800</pubDate>
+      
+      <guid>/post/github/github-accsee-slow/</guid>
+      <description>&lt;p&gt;解决 &lt;strong&gt;raw.githubusercontent.com&lt;/strong&gt; 无法访问的问题&lt;/p&gt;
+&lt;p&gt;亲测好用 &lt;a href=&#34;https://github.com/521xueweihan/GitHub520&#34;&gt;github520&lt;/a&gt; 直接一条命令,解决问题&lt;/p&gt;
+&lt;h2 id=&#34;linux系统&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#linux%e7%b3%bb%e7%bb%9f&#34;&gt;
+        #
+    &lt;/a&gt;
+    linux系统
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo sh -c &lt;span style=&#34;color:#5af78e&#34;&gt;&amp;#39;sed -i &amp;#34;/# GitHub520 Host Start/Q&amp;#34; /etc/hosts &amp;amp;&amp;amp; curl https://raw.hellogithub.com/hosts &amp;gt;&amp;gt; /etc/hosts&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;mac系统&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#mac%e7%b3%bb%e7%bb%9f&#34;&gt;
+        #
+    &lt;/a&gt;
+    mac系统
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo sed -i &lt;span style=&#34;color:#5af78e&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#5af78e&#34;&gt;&amp;#34;/# GitHub520 Host Start/,/# Github520 Host End/d&amp;#34;&lt;/span&gt; /etc/hosts &lt;span style=&#34;color:#ff6ac1&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; curl https://raw.hellogithub.com/hosts | sudo tee -a /etc/hosts
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>mysql学习记录01</title>
+      <link>/post/mysql-learn/</link>
+      <pubDate>Sun, 28 Apr 2024 10:35:41 +0800</pubDate>
+      
+      <guid>/post/mysql-learn/</guid>
+      <description>&lt;h2 id=&#34;mysql字符集&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#mysql%e5%ad%97%e7%ac%a6%e9%9b%86&#34;&gt;
+        #
+    &lt;/a&gt;
+    mysql字符集
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;h3 id=&#34;mysql字符比较集合后缀命名含义&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#mysql%e5%ad%97%e7%ac%a6%e6%af%94%e8%be%83%e9%9b%86%e5%90%88%e5%90%8e%e7%bc%80%e5%91%bd%e5%90%8d%e5%90%ab%e4%b9%89&#34;&gt;
+        ##
+    &lt;/a&gt;
+    mysql字符比较集合后缀命名含义
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;p&gt;Collation Suffix Meanings&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Suffix&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Meaning&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Descript&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;_ai&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Accent-insensitive&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;不区分重音&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;_as&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Accent-sensitive&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;区分重音&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;_ci&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Case-insensitive&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;不区分大小写&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;_cs&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Case-sensitive&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;区分大小写&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;_bin&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Binary&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;二进制比较&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;mysql字符集几个级别&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#mysql%e5%ad%97%e7%ac%a6%e9%9b%86%e5%87%a0%e4%b8%aa%e7%ba%a7%e5%88%ab&#34;&gt;
+        ##
+    &lt;/a&gt;
+    mysql字符集几个级别
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;服务器&lt;/li&gt;
+&lt;li&gt;数据库&lt;/li&gt;
+&lt;li&gt;表&lt;/li&gt;
+&lt;li&gt;字段&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;如果本级别没有设置，默认继承上一层级别。&lt;/p&gt;
+&lt;h3 id=&#34;mysql字符集涉及地方真多&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#mysql%e5%ad%97%e7%ac%a6%e9%9b%86%e6%b6%89%e5%8f%8a%e5%9c%b0%e6%96%b9%e7%9c%9f%e5%a4%9a&#34;&gt;
+        ##
+    &lt;/a&gt;
+    mysql字符集涉及地方真多
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sql&#34; data-lang=&#34;sql&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;mysql&lt;span style=&#34;color:#ff6ac1&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;show&lt;/span&gt; variables &lt;span style=&#34;color:#ff6ac1&#34;&gt;like&lt;/span&gt; &lt;span style=&#34;color:#5af78e&#34;&gt;&amp;#39;character_set_%&amp;#39;&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;+&lt;/span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;--------------------------+----------------------------+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; Variable_name            &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; Value                      &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;+&lt;/span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;--------------------------+----------------------------+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; character_set_client     &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; utf8mb4                    &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; character_set_connection &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; utf8mb4                    &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; character_set_database   &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; utf8mb4                    &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; character_set_filesystem &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;binary&lt;/span&gt;                     &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; character_set_results    &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; utf8mb4                    &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; character_set_server     &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; utf8mb4                    &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; character_set_system     &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; utf8                       &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; character_sets_dir       &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;/&lt;/span&gt;usr&lt;span style=&#34;color:#ff6ac1&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;share&lt;/span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;/&lt;/span&gt;mysql&lt;span style=&#34;color:#ff6ac1&#34;&gt;/&lt;/span&gt;charsets&lt;span style=&#34;color:#ff6ac1&#34;&gt;/&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;+&lt;/span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;--------------------------+----------------------------+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;写&lt;strong&gt;php&lt;/strong&gt;的时候以前经常执行一句&lt;strong&gt;sql&lt;/strong&gt;语句 &lt;code&gt;set names utf8&lt;/code&gt;,
+一直没有去深究过哈，只记得是乱码的时候用&lt;/p&gt;
+&lt;p&gt;以下几句的简写：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sql&#34; data-lang=&#34;sql&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;set&lt;/span&gt; character_set_client &lt;span style=&#34;color:#ff6ac1&#34;&gt;=&lt;/span&gt; utf8; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;set&lt;/span&gt; character_set_connection &lt;span style=&#34;color:#ff6ac1&#34;&gt;=&lt;/span&gt; utf8;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;set&lt;/span&gt; character_set_results &lt;span style=&#34;color:#ff6ac1&#34;&gt;=&lt;/span&gt; utf8;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;查看支持存储引擎&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e6%9f%a5%e7%9c%8b%e6%94%af%e6%8c%81%e5%ad%98%e5%82%a8%e5%bc%95%e6%93%8e&#34;&gt;
+        #
+    &lt;/a&gt;
+    查看支持存储引擎
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sql&#34; data-lang=&#34;sql&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;mysql&lt;span style=&#34;color:#ff6ac1&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;show&lt;/span&gt; engines;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;+&lt;/span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;--------------------+---------+----------------------------------------------------------------+--------------+------+------------+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; Engine             &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; Support &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;Comment&lt;/span&gt;                                                        &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; Transactions &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; XA   &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; Savepoints &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;+&lt;/span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;--------------------+---------+----------------------------------------------------------------+--------------+------+------------+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; InnoDB             &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;DEFAULT&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; Supports transactions, &lt;span style=&#34;color:#ff6ac1&#34;&gt;row&lt;/span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;level&lt;/span&gt; locking, &lt;span style=&#34;color:#ff6ac1&#34;&gt;and&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;foreign&lt;/span&gt; keys     &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; YES          &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; YES  &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; YES        &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; MRG_MYISAM         &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; YES     &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; Collection &lt;span style=&#34;color:#ff6ac1&#34;&gt;of&lt;/span&gt; identical MyISAM tables                          &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NO&lt;/span&gt;           &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NO&lt;/span&gt;   &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NO&lt;/span&gt;         &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; MEMORY             &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; YES     &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; Hash based, stored &lt;span style=&#34;color:#ff6ac1&#34;&gt;in&lt;/span&gt; memory, useful &lt;span style=&#34;color:#ff6ac1&#34;&gt;for&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;temporary&lt;/span&gt; tables      &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NO&lt;/span&gt;           &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NO&lt;/span&gt;   &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NO&lt;/span&gt;         &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; BLACKHOLE          &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; YES     &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;/&lt;/span&gt;dev&lt;span style=&#34;color:#ff6ac1&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;null&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;storage&lt;/span&gt; engine (anything you &lt;span style=&#34;color:#ff6ac1&#34;&gt;write&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;to&lt;/span&gt; it disappears) &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NO&lt;/span&gt;           &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NO&lt;/span&gt;   &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NO&lt;/span&gt;         &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; MyISAM             &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; YES     &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; MyISAM &lt;span style=&#34;color:#ff6ac1&#34;&gt;storage&lt;/span&gt; engine                                          &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NO&lt;/span&gt;           &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NO&lt;/span&gt;   &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NO&lt;/span&gt;         &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; CSV                &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; YES     &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; CSV &lt;span style=&#34;color:#ff6ac1&#34;&gt;storage&lt;/span&gt; engine                                             &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NO&lt;/span&gt;           &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NO&lt;/span&gt;   &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NO&lt;/span&gt;         &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; ARCHIVE            &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; YES     &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; Archive &lt;span style=&#34;color:#ff6ac1&#34;&gt;storage&lt;/span&gt; engine                                         &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NO&lt;/span&gt;           &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NO&lt;/span&gt;   &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NO&lt;/span&gt;         &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; PERFORMANCE_SCHEMA &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; YES     &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; Performance &lt;span style=&#34;color:#ff6ac1&#34;&gt;Schema&lt;/span&gt;                                             &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NO&lt;/span&gt;           &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NO&lt;/span&gt;   &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NO&lt;/span&gt;         &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; FEDERATED          &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NO&lt;/span&gt;      &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; Federated MySQL &lt;span style=&#34;color:#ff6ac1&#34;&gt;storage&lt;/span&gt; engine                                 &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NULL&lt;/span&gt;         &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NULL&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NULL&lt;/span&gt;       &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;+&lt;/span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;--------------------+---------+----------------------------------------------------------------+--------------+------+------------+
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#ff9f43&#34;&gt;9&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;rows&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;in&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;set&lt;/span&gt; (&lt;span style=&#34;color:#ff9f43&#34;&gt;0&lt;/span&gt;.&lt;span style=&#34;color:#ff9f43&#34;&gt;00&lt;/span&gt; sec)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;查看unix域套字节socket文件&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e6%9f%a5%e7%9c%8bunix%e5%9f%9f%e5%a5%97%e5%ad%97%e8%8a%82socket%e6%96%87%e4%bb%b6&#34;&gt;
+        ##
+    &lt;/a&gt;
+    查看UNIX域套字节socket文件
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-mysql&#34; data-lang=&#34;mysql&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;mysql&lt;span style=&#34;color:#ff6ac1&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;show&lt;/span&gt; variables &lt;span style=&#34;color:#ff6ac1&#34;&gt;like&lt;/span&gt; &lt;span style=&#34;color:#5af78e&#34;&gt;&amp;#39;socket&amp;#39;&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;+---------------+-----------------------------+&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; Variable_name &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; Value                       &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;+---------------+-----------------------------+&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; socket        &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;/&lt;/span&gt;var&lt;span style=&#34;color:#ff6ac1&#34;&gt;/&lt;/span&gt;run&lt;span style=&#34;color:#ff6ac1&#34;&gt;/&lt;/span&gt;mysqld&lt;span style=&#34;color:#ff6ac1&#34;&gt;/&lt;/span&gt;mysqld.sock &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;+---------------+-----------------------------+&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff9f43&#34;&gt;1&lt;/span&gt; row &lt;span style=&#34;color:#ff6ac1&#34;&gt;in&lt;/span&gt; &lt;span style=&#34;color:#9aedfe&#34;&gt;set&lt;/span&gt; (&lt;span style=&#34;color:#ff9f43&#34;&gt;0&lt;/span&gt;.&lt;span style=&#34;color:#ff9f43&#34;&gt;18&lt;/span&gt; sec)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

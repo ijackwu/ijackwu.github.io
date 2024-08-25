@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Github on Jackwu&#39; Blog</title>
+    <link>/tags/github/</link>
+    <description>Jackwu&#39; Blog (Github)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 03 May 2024 21:45:01 +0800</lastBuildDate>
+    
+    <atom:link href="/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>github访问慢，资源无法下载简单解决方案</title>
+      <link>/post/github/github-accsee-slow/</link>
+      <pubDate>Fri, 03 May 2024 21:45:01 +0800</pubDate>
+      
+      <guid>/post/github/github-accsee-slow/</guid>
+      <description>&lt;p&gt;解决 &lt;strong&gt;raw.githubusercontent.com&lt;/strong&gt; 无法访问的问题&lt;/p&gt;
+&lt;p&gt;亲测好用 &lt;a href=&#34;https://github.com/521xueweihan/GitHub520&#34;&gt;github520&lt;/a&gt; 直接一条命令,解决问题&lt;/p&gt;
+&lt;h2 id=&#34;linux系统&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#linux%e7%b3%bb%e7%bb%9f&#34;&gt;
+        #
+    &lt;/a&gt;
+    linux系统
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo sh -c &lt;span style=&#34;color:#5af78e&#34;&gt;&amp;#39;sed -i &amp;#34;/# GitHub520 Host Start/Q&amp;#34; /etc/hosts &amp;amp;&amp;amp; curl https://raw.hellogithub.com/hosts &amp;gt;&amp;gt; /etc/hosts&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;mac系统&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#mac%e7%b3%bb%e7%bb%9f&#34;&gt;
+        #
+    &lt;/a&gt;
+    mac系统
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo sed -i &lt;span style=&#34;color:#5af78e&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#5af78e&#34;&gt;&amp;#34;/# GitHub520 Host Start/,/# Github520 Host End/d&amp;#34;&lt;/span&gt; /etc/hosts &lt;span style=&#34;color:#ff6ac1&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; curl https://raw.hellogithub.com/hosts | sudo tee -a /etc/hosts
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
