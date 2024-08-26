@@ -340,8 +340,7 @@ header h2 {
 }
 
 .header-top-right {
-    font-size:0.8em;
-    color: var(--post-info-color);
+    font-size:1em;
 }
 
 .site-title {

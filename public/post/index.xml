@@ -92,6 +92,104 @@
     </item>
     
     <item>
+      <title>6</title>
+      <link>/post/mit-6.828/6/</link>
+      <pubDate>Sun, 25 Aug 2024 11:49:32 +0800</pubDate>
+      
+      <guid>/post/mit-6.828/6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Golang Study</title>
+      <link>/post/golang-study/</link>
+      <pubDate>Sun, 28 Jul 2024 21:55:42 +0800</pubDate>
+      
+      <guid>/post/golang-study/</guid>
+      <description>&lt;h2 id=&#34;types-four-categories&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#types-four-categories&#34;&gt;
+        #
+    &lt;/a&gt;
+    Types four categories
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic types (numbers, strings, booleans)&lt;/li&gt;
+&lt;li&gt;Aggregate types (arrays, structs)&lt;/li&gt;
+&lt;li&gt;Reference types (points, slices, maps, functions, channels)&lt;/li&gt;
+&lt;li&gt;Interface types (interface)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>English Study</title>
+      <link>/post/english-study/</link>
+      <pubDate>Wed, 24 Jul 2024 23:05:00 +0800</pubDate>
+      
+      <guid>/post/english-study/</guid>
+      <description>&lt;h2 id=&#34;字母&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e5%ad%97%e6%af%8d&#34;&gt;
+        #
+    &lt;/a&gt;
+    字母
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;h2 id=&#34;单词&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e5%8d%95%e8%af%8d&#34;&gt;
+        #
+    &lt;/a&gt;
+    单词
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;字母&lt;/th&gt;
+&lt;th&gt;音标&lt;/th&gt;
+&lt;th&gt;常见单词&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;/æ/&lt;/td&gt;
+&lt;td&gt;apple、ant、alligator&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;td&gt;/b/&lt;/td&gt;
+&lt;td&gt;ball、bat、bed&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;td&gt;/k/&lt;/td&gt;
+&lt;td&gt;cat、cap、cup&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;D&lt;/td&gt;
+&lt;td&gt;/d/&lt;/td&gt;
+&lt;td&gt;dog、desk、duck&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;E&lt;/td&gt;
+&lt;td&gt;/e/&lt;/td&gt;
+&lt;td&gt;elephant、egg、elbow&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;F&lt;/td&gt;
+&lt;td&gt;/f/&lt;/td&gt;
+&lt;td&gt;fish、fan、fork&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Study Log</title>
       <link>/post/study/</link>
       <pubDate>Wed, 03 Jul 2024 11:51:37 +0800</pubDate>
@@ -130,6 +228,340 @@
     </item>
     
     <item>
+      <title>C Lang Study</title>
+      <link>/post/c-lang-study/</link>
+      <pubDate>Fri, 28 Jun 2024 00:43:28 +0800</pubDate>
+      
+      <guid>/post/c-lang-study/</guid>
+      <description>&lt;p&gt;密歇根州立大学  CSE 251 Programming in C&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cse.msu.edu/~cse251/index.html&#34;&gt;https://www.cse.msu.edu/~cse251/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;https://github.com/spring2go/cs_study_plan
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;https://sp24.datastructur.es/labs/lab02/
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data Struture</title>
+      <link>/post/data-struture/</link>
+      <pubDate>Sun, 26 May 2024 00:26:55 +0800</pubDate>
+      
+      <guid>/post/data-struture/</guid>
+      <description>&lt;h2 id=&#34;arrys-list-vs-linked-list&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#arrys-list-vs-linked-list&#34;&gt;
+        #
+    &lt;/a&gt;
+    arrys list vs linked list
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;比较项目&lt;/th&gt;
+&lt;th&gt;array&lt;/th&gt;
+&lt;th&gt;linked list&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;查找速度&lt;/td&gt;
+&lt;td&gt;O(1)&lt;/td&gt;
+&lt;td&gt;O(n)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;内存情况&lt;/td&gt;
+&lt;td&gt;连续，有未使用浪费空间&lt;/td&gt;
+&lt;td&gt;不连续，没有空间浪费按需申请&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;插入删除速度&lt;/td&gt;
+&lt;td&gt;O(n)、O(1) ，头部、中间、尾部插入（数组满的情况）&lt;/td&gt;
+&lt;td&gt;O(1)、O(n)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mit 6.828</title>
+      <link>/post/mit-6.828/1/</link>
+      <pubDate>Sat, 11 May 2024 21:04:24 +0800</pubDate>
+      
+      <guid>/post/mit-6.828/1/</guid>
+      <description>&lt;p&gt;mit 6.828 操作系统值得学习的课程&lt;/p&gt;
+&lt;p&gt;慢慢看&lt;a href=&#34;https://pdos.csail.mit.edu/6.828/2020/schedule.html&#34;&gt;https://pdos.csail.mit.edu/6.828/2020/schedule.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://csdiy.wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/MIT6.S081/&#34;&gt;https://csdiy.wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/MIT6.S081/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Postgresql</title>
+      <link>/post/postgresql/</link>
+      <pubDate>Mon, 06 May 2024 22:48:30 +0800</pubDate>
+      
+      <guid>/post/postgresql/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-sql&#34; data-lang=&#34;sql&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;-- login
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;&lt;/span&gt;plsql &lt;span style=&#34;color:#ff6ac1&#34;&gt;-&lt;/span&gt;Uusername &lt;span style=&#34;color:#ff6ac1&#34;&gt;-&lt;/span&gt;h127.&lt;span style=&#34;color:#ff9f43&#34;&gt;0&lt;/span&gt;.&lt;span style=&#34;color:#ff9f43&#34;&gt;0&lt;/span&gt;.&lt;span style=&#34;color:#ff9f43&#34;&gt;1&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;-&lt;/span&gt;p5432
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;psql (&lt;span style=&#34;color:#ff9f43&#34;&gt;12&lt;/span&gt;.&lt;span style=&#34;color:#ff9f43&#34;&gt;18&lt;/span&gt; (Debian &lt;span style=&#34;color:#ff9f43&#34;&gt;12&lt;/span&gt;.&lt;span style=&#34;color:#ff9f43&#34;&gt;18&lt;/span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#ff9f43&#34;&gt;1&lt;/span&gt;.pgdg120&lt;span style=&#34;color:#ff6ac1&#34;&gt;+&lt;/span&gt;&lt;span style=&#34;color:#ff9f43&#34;&gt;2&lt;/span&gt;))
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;Type&lt;/span&gt; &lt;span style=&#34;color:#5af78e&#34;&gt;&amp;#34;help&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;for&lt;/span&gt; help.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;-- create database
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;&lt;/span&gt;root&lt;span style=&#34;color:#ff6ac1&#34;&gt;=#&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;CREATE&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;DATABASE&lt;/span&gt; test;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;CREATE&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;DATABASE&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;-- connect table to test
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;&lt;/span&gt;root&lt;span style=&#34;color:#ff6ac1&#34;&gt;=#&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;\&lt;/span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;c&lt;/span&gt; test;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;You &lt;span style=&#34;color:#ff6ac1&#34;&gt;are&lt;/span&gt; now connected &lt;span style=&#34;color:#ff6ac1&#34;&gt;to&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;database&lt;/span&gt; &lt;span style=&#34;color:#5af78e&#34;&gt;&amp;#34;test&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;as&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;user&lt;/span&gt; &lt;span style=&#34;color:#5af78e&#34;&gt;&amp;#34;root&amp;#34;&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;-- create table test
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;&lt;/span&gt;test&lt;span style=&#34;color:#ff6ac1&#34;&gt;=#&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;CREATE&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;TABLE&lt;/span&gt; test (
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;test(&lt;span style=&#34;color:#ff6ac1&#34;&gt;#&lt;/span&gt; id BIGSERIAL &lt;span style=&#34;color:#ff6ac1&#34;&gt;NOT&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NULL&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;PRIMARY&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;KEY&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;test(&lt;span style=&#34;color:#ff6ac1&#34;&gt;#&lt;/span&gt; first_name &lt;span style=&#34;color:#ff5c57&#34;&gt;VARCHAR&lt;/span&gt;(&lt;span style=&#34;color:#ff9f43&#34;&gt;50&lt;/span&gt;) &lt;span style=&#34;color:#ff6ac1&#34;&gt;NOT&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NULL&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;test(&lt;span style=&#34;color:#ff6ac1&#34;&gt;#&lt;/span&gt; last_name &lt;span style=&#34;color:#ff5c57&#34;&gt;VARCHAR&lt;/span&gt;(&lt;span style=&#34;color:#ff9f43&#34;&gt;50&lt;/span&gt;) &lt;span style=&#34;color:#ff6ac1&#34;&gt;NOT&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NULL&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;test(&lt;span style=&#34;color:#ff6ac1&#34;&gt;#&lt;/span&gt; gender &lt;span style=&#34;color:#ff5c57&#34;&gt;VARCHAR&lt;/span&gt;(&lt;span style=&#34;color:#ff9f43&#34;&gt;7&lt;/span&gt;) &lt;span style=&#34;color:#ff6ac1&#34;&gt;NOT&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NULL&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;test(&lt;span style=&#34;color:#ff6ac1&#34;&gt;#&lt;/span&gt; date_of_birth &lt;span style=&#34;color:#ff5c57&#34;&gt;DATE&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NOT&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NULL&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;test(&lt;span style=&#34;color:#ff6ac1&#34;&gt;#&lt;/span&gt; email &lt;span style=&#34;color:#ff5c57&#34;&gt;VARCHAR&lt;/span&gt;(&lt;span style=&#34;color:#ff9f43&#34;&gt;128&lt;/span&gt;) );
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;CREATE&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;TABLE&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;-- display table info of test 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;&lt;/span&gt;test&lt;span style=&#34;color:#ff6ac1&#34;&gt;=#&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;\&lt;/span&gt;d test;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                                       &lt;span style=&#34;color:#ff6ac1&#34;&gt;Table&lt;/span&gt; &lt;span style=&#34;color:#5af78e&#34;&gt;&amp;#34;public.test&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#ff6ac1&#34;&gt;Column&lt;/span&gt;     &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;          &lt;span style=&#34;color:#ff6ac1&#34;&gt;Type&lt;/span&gt;          &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;Collation&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;Nullable&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;             &lt;span style=&#34;color:#ff6ac1&#34;&gt;Default&lt;/span&gt;              
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;---------------+------------------------+-----------+----------+----------------------------------
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;&lt;/span&gt; id            &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;bigint&lt;/span&gt;                 &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;           &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;not&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;null&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; nextval(&lt;span style=&#34;color:#5af78e&#34;&gt;&amp;#39;test_id_seq&amp;#39;&lt;/span&gt;::regclass)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; first_name    &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;character&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;varying&lt;/span&gt;(&lt;span style=&#34;color:#ff9f43&#34;&gt;50&lt;/span&gt;)  &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;           &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;not&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;null&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; last_name     &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;character&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;varying&lt;/span&gt;(&lt;span style=&#34;color:#ff9f43&#34;&gt;50&lt;/span&gt;)  &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;           &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;not&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;null&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; gender        &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;character&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;varying&lt;/span&gt;(&lt;span style=&#34;color:#ff9f43&#34;&gt;7&lt;/span&gt;)   &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;           &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;not&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;null&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; date_of_birth &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;date&lt;/span&gt;                   &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;           &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;not&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;null&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; email         &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;character&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;varying&lt;/span&gt;(&lt;span style=&#34;color:#ff9f43&#34;&gt;128&lt;/span&gt;) &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;           &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;          &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Indexes:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#5af78e&#34;&gt;&amp;#34;test_pkey&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;PRIMARY&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;KEY&lt;/span&gt;, btree (id)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;-- drop table test
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;&lt;/span&gt;test&lt;span style=&#34;color:#ff6ac1&#34;&gt;=#&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;DROP&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;TABLE&lt;/span&gt; test;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;DROP&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;TABLE&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;-- create table person
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;&lt;/span&gt;test&lt;span style=&#34;color:#ff6ac1&#34;&gt;=#&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;CREATE&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;TABLE&lt;/span&gt; person (
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;id BIGSERIAL &lt;span style=&#34;color:#ff6ac1&#34;&gt;NOT&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NULL&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;PRIMARY&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;KEY&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;first_name &lt;span style=&#34;color:#ff5c57&#34;&gt;VARCHAR&lt;/span&gt;(&lt;span style=&#34;color:#ff9f43&#34;&gt;50&lt;/span&gt;) &lt;span style=&#34;color:#ff6ac1&#34;&gt;NOT&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NULL&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;last_name &lt;span style=&#34;color:#ff5c57&#34;&gt;VARCHAR&lt;/span&gt;(&lt;span style=&#34;color:#ff9f43&#34;&gt;50&lt;/span&gt;) &lt;span style=&#34;color:#ff6ac1&#34;&gt;NOT&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NULL&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;gender &lt;span style=&#34;color:#ff5c57&#34;&gt;VARCHAR&lt;/span&gt;(&lt;span style=&#34;color:#ff9f43&#34;&gt;7&lt;/span&gt;) &lt;span style=&#34;color:#ff6ac1&#34;&gt;NOT&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NULL&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;date_of_birth &lt;span style=&#34;color:#ff5c57&#34;&gt;DATE&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NOT&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;NULL&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;email &lt;span style=&#34;color:#ff5c57&#34;&gt;VARCHAR&lt;/span&gt;(&lt;span style=&#34;color:#ff9f43&#34;&gt;128&lt;/span&gt;) );
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;CREATE&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;TABLE&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;-- display table info of person
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;&lt;/span&gt;test&lt;span style=&#34;color:#ff6ac1&#34;&gt;=#&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;\&lt;/span&gt;d person
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                                       &lt;span style=&#34;color:#ff6ac1&#34;&gt;Table&lt;/span&gt; &lt;span style=&#34;color:#5af78e&#34;&gt;&amp;#34;public.person&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#ff6ac1&#34;&gt;Column&lt;/span&gt;     &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;          &lt;span style=&#34;color:#ff6ac1&#34;&gt;Type&lt;/span&gt;          &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;Collation&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;Nullable&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;              &lt;span style=&#34;color:#ff6ac1&#34;&gt;Default&lt;/span&gt;               
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;---------------+------------------------+-----------+----------+------------------------------------
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;&lt;/span&gt; id            &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;bigint&lt;/span&gt;                 &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;           &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;not&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;null&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; nextval(&lt;span style=&#34;color:#5af78e&#34;&gt;&amp;#39;person_id_seq&amp;#39;&lt;/span&gt;::regclass)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; first_name    &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;character&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;varying&lt;/span&gt;(&lt;span style=&#34;color:#ff9f43&#34;&gt;50&lt;/span&gt;)  &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;           &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;not&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;null&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; last_name     &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;character&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;varying&lt;/span&gt;(&lt;span style=&#34;color:#ff9f43&#34;&gt;50&lt;/span&gt;)  &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;           &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;not&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;null&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; gender        &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;character&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;varying&lt;/span&gt;(&lt;span style=&#34;color:#ff9f43&#34;&gt;7&lt;/span&gt;)   &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;           &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;not&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;null&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; date_of_birth &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;date&lt;/span&gt;                   &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;           &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;not&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;null&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; email         &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;character&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;varying&lt;/span&gt;(&lt;span style=&#34;color:#ff9f43&#34;&gt;128&lt;/span&gt;) &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;           &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;          &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;Indexes:
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#5af78e&#34;&gt;&amp;#34;person_pkey&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;PRIMARY&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;KEY&lt;/span&gt;, btree (id)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;-- display table list
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;&lt;/span&gt;test&lt;span style=&#34;color:#ff6ac1&#34;&gt;=#&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;\&lt;/span&gt;d
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;             List &lt;span style=&#34;color:#ff6ac1&#34;&gt;of&lt;/span&gt; relations
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;Schema&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;     Name      &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;   &lt;span style=&#34;color:#ff6ac1&#34;&gt;Type&lt;/span&gt;   &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;Owner&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;--------+---------------+----------+-------
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; person        &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;table&lt;/span&gt;    &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; root
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; person_id_seq &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; sequence &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; root
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;(&lt;span style=&#34;color:#ff9f43&#34;&gt;2&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;rows&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;test&lt;span style=&#34;color:#ff6ac1&#34;&gt;=#&lt;/span&gt; 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;test&lt;span style=&#34;color:#ff6ac1&#34;&gt;=#&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;select&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;*&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;from&lt;/span&gt; person &lt;span style=&#34;color:#ff6ac1&#34;&gt;offset&lt;/span&gt; &lt;span style=&#34;color:#ff9f43&#34;&gt;5&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;fetch&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;first&lt;/span&gt; &lt;span style=&#34;color:#ff9f43&#34;&gt;5&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;row&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;only&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;test&lt;span style=&#34;color:#ff6ac1&#34;&gt;=#&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;select&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;*&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;from&lt;/span&gt; person &lt;span style=&#34;color:#ff6ac1&#34;&gt;offset&lt;/span&gt; &lt;span style=&#34;color:#ff9f43&#34;&gt;5&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;limit&lt;/span&gt; &lt;span style=&#34;color:#ff9f43&#34;&gt;5&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vim学习记录</title>
+      <link>/post/vim/</link>
+      <pubDate>Sun, 05 May 2024 16:44:00 +0800</pubDate>
+      
+      <guid>/post/vim/</guid>
+      <description>&lt;h2 id=&#34;插入模式编辑指令&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e6%8f%92%e5%85%a5%e6%a8%a1%e5%bc%8f%e7%bc%96%e8%be%91%e6%8c%87%e4%bb%a4&#34;&gt;
+        #
+    &lt;/a&gt;
+    插入模式编辑指令
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;从&lt;code&gt;insert -&amp;gt; normal&lt;/code&gt; ESC,也可以用&lt;code&gt;ctrl+[&lt;/code&gt; 或者 &lt;code&gt;ctrl+c&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;普通模式下:&lt;/p&gt;
+&lt;p&gt;小写&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;a&lt;/code&gt; append 光标后插入&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;i&lt;/code&gt; before 光标前插入&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;o&lt;/code&gt; open a new line 下一行插入&lt;/p&gt;
+&lt;p&gt;大写(记忆方法&lt;code&gt;a&lt;/code&gt;是后面插入大写&lt;code&gt;A&lt;/code&gt;就是行末，&lt;code&gt;i&lt;/code&gt;是光标前面插入，大写I就是行首，&lt;code&gt;o&lt;/code&gt;是下一行，大写&lt;code&gt;O&lt;/code&gt;相反上一行插入)&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;A&lt;/code&gt; append after line 行末插入&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;I&lt;/code&gt; append before line 行首插入&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;O&lt;/code&gt; append a line above 上一行插入&lt;/p&gt;
+&lt;p&gt;编辑操作&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ctrl+h&lt;/code&gt; 撤销光标前面上一个字符&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ctrl+w&lt;/code&gt; 撤销光标前面一个单词&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ctrl+u&lt;/code&gt; 撤销一行&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;gi&lt;/code&gt; 快速回到上一次编辑的位置&lt;/p&gt;
+&lt;h2 id=&#34;分屏&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e5%88%86%e5%b1%8f&#34;&gt;
+        #
+    &lt;/a&gt;
+    分屏
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;:sp&lt;/code&gt; 横分屏&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;:vs&lt;/code&gt; 竖分屏&lt;/p&gt;
+&lt;h2 id=&#34;视图模式&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e8%a7%86%e5%9b%be%e6%a8%a1%e5%bc%8f&#34;&gt;
+        #
+    &lt;/a&gt;
+    视图模式
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;v&lt;/code&gt; 选中&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;V&lt;/code&gt; 行选中&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ctrl + v&lt;/code&gt; 列选中&lt;/p&gt;
+&lt;h2 id=&#34;视图模式下移动光标&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e8%a7%86%e5%9b%be%e6%a8%a1%e5%bc%8f%e4%b8%8b%e7%a7%bb%e5%8a%a8%e5%85%89%e6%a0%87&#34;&gt;
+        #
+    &lt;/a&gt;
+    视图模式下移动光标
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    k
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;h       l
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    j
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;单词移动&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e5%8d%95%e8%af%8d%e7%a7%bb%e5%8a%a8&#34;&gt;
+        #
+    &lt;/a&gt;
+    单词移动
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;w&lt;/code&gt;, &lt;code&gt;e&lt;/code&gt; 下一个单词首（尾）、非空白字符分割单词&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;W&lt;/code&gt;, &lt;code&gt;E&lt;/code&gt; 下一个单词首(尾)、空白字符分割单词&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;b&lt;/code&gt; 上一个单词首&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;B&lt;/code&gt; 上一个单词尾&lt;/p&gt;
+&lt;h2 id=&#34;行内查找&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e8%a1%8c%e5%86%85%e6%9f%a5%e6%89%be&#34;&gt;
+        #
+    &lt;/a&gt;
+    行内查找
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;f&lt;/code&gt; 查找内容,&lt;code&gt;;&lt;/code&gt;重复一次查找下一个，&lt;code&gt;,&lt;/code&gt;相反方向查找
+&lt;code&gt;F&lt;/code&gt;逻辑和&lt;code&gt;f&lt;/code&gt;相反，反向查找&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;t&lt;/code&gt;和&lt;code&gt;f&lt;/code&gt;一样，只是搜索到内容光标定位到搜索的前一个字符&lt;/p&gt;
+&lt;h2 id=&#34;行内移动&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e8%a1%8c%e5%86%85%e7%a7%bb%e5%8a%a8&#34;&gt;
+        #
+    &lt;/a&gt;
+    行内移动
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;^&lt;/code&gt;和&lt;code&gt;0&lt;/code&gt;移动行首&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;$&lt;/code&gt;和&lt;code&gt;g_&lt;/code&gt;移动行尾&lt;/p&gt;
+&lt;h2 id=&#34;文件跳转&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e6%96%87%e4%bb%b6%e8%b7%b3%e8%bd%ac&#34;&gt;
+        #
+    &lt;/a&gt;
+    文件跳转
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;gg&lt;/code&gt; 第一行&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;G&lt;/code&gt; 最后一行&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ctrl+o&lt;/code&gt; 返回上一个位置&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ctrl+]&lt;/code&gt; 进入 一个函数定义&lt;/p&gt;
+&lt;h2 id=&#34;文件状态&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e6%96%87%e4%bb%b6%e7%8a%b6%e6%80%81&#34;&gt;
+        #
+    &lt;/a&gt;
+    文件状态
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;ctrl+g&lt;/code&gt; 查看文件状态&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;行数+G&lt;/code&gt;, &lt;code&gt;:行数&lt;/code&gt; 跳到文件行数字&lt;/p&gt;
+&lt;h2 id=&#34;vim中执行系统命令&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#vim%e4%b8%ad%e6%89%a7%e8%a1%8c%e7%b3%bb%e7%bb%9f%e5%91%bd%e4%bb%a4&#34;&gt;
+        #
+    &lt;/a&gt;
+    vim中执行系统命令
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;:!命令&lt;/code&gt; 例如执行系统&lt;code&gt;ls&lt;/code&gt;, &lt;code&gt;:!ls&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;有一个场景比较方便修改文件切换权限，比如编辑&lt;code&gt;/etc/hosts&lt;/code&gt;，普通用户模式下只读打开，需要修改保持的时候没权限，可以这样操作。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;:w !sudo tee %&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;屏幕移动&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e5%b1%8f%e5%b9%95%e7%a7%bb%e5%8a%a8&#34;&gt;
+        #
+    &lt;/a&gt;
+    屏幕移动
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;code&gt;ctrl+u&lt;/code&gt; upword 向上翻页&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;ctrl+f&lt;/code&gt; forward 向下翻页&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;zz&lt;/code&gt; 光标内容移动到屏幕中间&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;H&lt;/code&gt; head 顶部&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;M&lt;/code&gt; middler 光标跳到中间&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;L&lt;/code&gt; lower 底部&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>终端zsh</title>
+      <link>/post/terminal-zsh/</link>
+      <pubDate>Sun, 05 May 2024 16:31:48 +0800</pubDate>
+      
+      <guid>/post/terminal-zsh/</guid>
+      <description>&lt;p&gt;zsh &lt;a href=&#34;https://ohmyz.sh/&#34;&gt;https://ohmyz.sh/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;themse p10k &lt;a href=&#34;https://github.com/romkatv/powerlevel10k&#34;&gt;https://github.com/romkatv/powerlevel10k&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Golang Backend Master Class</title>
+      <link>/post/golang-backend-master-class/</link>
+      <pubDate>Sat, 04 May 2024 22:28:32 +0800</pubDate>
+      
+      <guid>/post/golang-backend-master-class/</guid>
+      <description>&lt;h2 id=&#34;在线设计表&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e5%9c%a8%e7%ba%bf%e8%ae%be%e8%ae%a1%e8%a1%a8&#34;&gt;
+        #
+    &lt;/a&gt;
+    在线设计表
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;表关系 &lt;a href=&#34;https://dbdiagram.io/&#34;&gt;https://dbdiagram.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;数据库图形管理 &lt;a href=&#34;https://tableplus.com/&#34;&gt;https://tableplus.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;golang 数据库迁移 &lt;a href=&#34;https://github.com/golang-migrate/&#34;&gt;https://github.com/golang-migrate/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;generate &amp;amp;&amp;amp; stringer &lt;a href=&#34;https://go.dev/blog/generate&#34;&gt;https://go.dev/blog/generate&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>github访问慢，资源无法下载简单解决方案</title>
       <link>/post/github/github-accsee-slow/</link>
       <pubDate>Fri, 03 May 2024 21:45:01 +0800</pubDate>
@@ -156,6 +588,47 @@
 &lt;/h2&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo sed -i &lt;span style=&#34;color:#5af78e&#34;&gt;&amp;#34;&amp;#34;&lt;/span&gt; &lt;span style=&#34;color:#5af78e&#34;&gt;&amp;#34;/# GitHub520 Host Start/,/# Github520 Host End/d&amp;#34;&lt;/span&gt; /etc/hosts &lt;span style=&#34;color:#ff6ac1&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; curl https://raw.hellogithub.com/hosts | sudo tee -a /etc/hosts
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>财务知识学习</title>
+      <link>/post/finance/</link>
+      <pubDate>Tue, 30 Apr 2024 22:55:02 +0800</pubDate>
+      
+      <guid>/post/finance/</guid>
+      <description>&lt;h2 id=&#34;借贷记账法&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e5%80%9f%e8%b4%b7%e8%ae%b0%e8%b4%a6%e6%b3%95&#34;&gt;
+        #
+    &lt;/a&gt;
+    借贷记账法
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;资产 = 负债 + 所有者权益&lt;/p&gt;
+&lt;p&gt;收入 - 费用 = 利润&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;资产 + 费用 + 损失 = 负债+ 所有者投入 + 收入 + 利得&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;等号左边：借 +、 贷 -&lt;/p&gt;
+&lt;p&gt;等号右边：借 - 、贷 +&lt;/p&gt;
+&lt;p&gt;四大基本假设:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;会计主体&lt;/li&gt;
+&lt;li&gt;持续经营&lt;/li&gt;
+&lt;li&gt;会计分期&lt;/li&gt;
+&lt;li&gt;货币计量&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;看到这里 &lt;a href=&#34;https://www.bilibili.com/video/BV1xH4y1X7hV?p=4&amp;amp;spm_id_from=pageDriver&amp;amp;vd_source=a3d00819fb8c22aa00b1e8713cf975e7&#34;&gt;https://www.bilibili.com/video/BV1xH4y1X7hV?p=4&amp;amp;spm_id_from=pageDriver&amp;amp;vd_source=a3d00819fb8c22aa00b1e8713cf975e7&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>/post/demo/mysql/mysql-learning-01/</link>
+      <pubDate>Sun, 28 Apr 2024 23:46:55 +0800</pubDate>
+      
+      <guid>/post/demo/mysql/mysql-learning-01/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -297,6 +770,406 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; socket        &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt; &lt;span style=&#34;color:#ff6ac1&#34;&gt;/&lt;/span&gt;var&lt;span style=&#34;color:#ff6ac1&#34;&gt;/&lt;/span&gt;run&lt;span style=&#34;color:#ff6ac1&#34;&gt;/&lt;/span&gt;mysqld&lt;span style=&#34;color:#ff6ac1&#34;&gt;/&lt;/span&gt;mysqld.sock &lt;span style=&#34;color:#ff6ac1&#34;&gt;|&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;+---------------+-----------------------------+&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff9f43&#34;&gt;1&lt;/span&gt; row &lt;span style=&#34;color:#ff6ac1&#34;&gt;in&lt;/span&gt; &lt;span style=&#34;color:#9aedfe&#34;&gt;set&lt;/span&gt; (&lt;span style=&#34;color:#ff9f43&#34;&gt;0&lt;/span&gt;.&lt;span style=&#34;color:#ff9f43&#34;&gt;18&lt;/span&gt; sec)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>/post/markdown-syntax/</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
+&lt;h2 id=&#34;headings&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#headings&#34;&gt;
+        #
+    &lt;/a&gt;
+    Headings
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
+&lt;h1 id=&#34;h1&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#h1&#34;&gt;
+        ##
+    &lt;/a&gt;
+    H1
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;h2 id=&#34;h2&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#h2&#34;&gt;
+        #
+    &lt;/a&gt;
+    H2
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;h3 id=&#34;h3&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#h3&#34;&gt;
+        ##
+    &lt;/a&gt;
+    H3
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;h4 id=&#34;h4&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#h4&#34;&gt;
+        ###
+    &lt;/a&gt;
+    H4
+&lt;/div&gt;
+&lt;/h4&gt;
+&lt;h5 id=&#34;h5&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#h5&#34;&gt;
+        ####
+    &lt;/a&gt;
+    H5
+&lt;/div&gt;
+&lt;/h5&gt;
+&lt;h6 id=&#34;h6&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#h6&#34;&gt;
+        #####
+    &lt;/a&gt;
+    H6
+&lt;/div&gt;
+&lt;/h6&gt;
+&lt;h2 id=&#34;paragraph&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#paragraph&#34;&gt;
+        #
+    &lt;/a&gt;
+    Paragraph
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p&gt;
+&lt;p&gt;Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.&lt;/p&gt;
+&lt;h2 id=&#34;blockquotes&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#blockquotes&#34;&gt;
+        #
+    &lt;/a&gt;
+    Blockquotes
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a &lt;code&gt;footer&lt;/code&gt; or &lt;code&gt;cite&lt;/code&gt; element, and optionally with in-line changes such as annotations and abbreviations.&lt;/p&gt;
+&lt;h3 id=&#34;blockquote-without-attribution&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#blockquote-without-attribution&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Blockquote without attribution
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Tiam, ad mint andaepu dandae nostion secatur sequo quae.
+&lt;strong&gt;Note&lt;/strong&gt; that you can use &lt;em&gt;Markdown syntax&lt;/em&gt; within a blockquote.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;blockquote-with-attribution&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#blockquote-with-attribution&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Blockquote with attribution
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.&lt;br&gt;
+— &lt;cite&gt;Rob Pike&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;tables&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#tables&#34;&gt;
+        #
+    &lt;/a&gt;
+    Tables
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;Tables aren&amp;rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Name&lt;/th&gt;
+&lt;th&gt;Age&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Bob&lt;/td&gt;
+&lt;td&gt;27&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Alice&lt;/td&gt;
+&lt;td&gt;23&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;inline-markdown-within-tables&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#inline-markdown-within-tables&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Inline Markdown within tables
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Italics&lt;/th&gt;
+&lt;th&gt;Bold&lt;/th&gt;
+&lt;th&gt;Code&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;em&gt;italics&lt;/em&gt;&lt;/td&gt;
+&lt;td&gt;&lt;strong&gt;bold&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;code&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;A&lt;/th&gt;
+&lt;th&gt;B&lt;/th&gt;
+&lt;th&gt;C&lt;/th&gt;
+&lt;th&gt;D&lt;/th&gt;
+&lt;th&gt;E&lt;/th&gt;
+&lt;th&gt;F&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/td&gt;
+&lt;td&gt;Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex.&lt;/td&gt;
+&lt;td&gt;Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus&lt;/td&gt;
+&lt;td&gt;Proin sit amet velit nec enim imperdiet vehicula.&lt;/td&gt;
+&lt;td&gt;Ut bibendum vestibulum quam, eu egestas turpis gravida nec&lt;/td&gt;
+&lt;td&gt;Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;code-blocks&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#code-blocks&#34;&gt;
+        #
+    &lt;/a&gt;
+    Code Blocks
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;h3 id=&#34;code-block-with-backticks&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#code-block-with-backticks&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Code block with backticks
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#78787e&#34;&gt;&amp;lt;!doctype html&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;html&lt;/span&gt; &lt;span style=&#34;color:#57c7ff&#34;&gt;lang&lt;/span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#5af78e&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;head&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;meta&lt;/span&gt; &lt;span style=&#34;color:#57c7ff&#34;&gt;charset&lt;/span&gt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#5af78e&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;title&lt;/span&gt;&amp;gt;Example HTML5 Document&amp;lt;/&lt;span style=&#34;color:#ff6ac1&#34;&gt;title&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#ff6ac1&#34;&gt;head&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;body&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;p&lt;/span&gt;&amp;gt;Test&amp;lt;/&lt;span style=&#34;color:#ff6ac1&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#ff6ac1&#34;&gt;body&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#ff6ac1&#34;&gt;html&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;code-block-indented-with-four-spaces&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#code-block-indented-with-four-spaces&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Code block indented with four spaces
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;!doctype html&amp;gt;
+&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
+&amp;lt;head&amp;gt;
+  &amp;lt;meta charset=&amp;quot;utf-8&amp;quot;&amp;gt;
+  &amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+  &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt;
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;diff-code-block&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#diff-code-block&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Diff code block
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-diff&#34; data-lang=&#34;diff&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;[dependencies.bevy]
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git = &amp;#34;https://github.com/bevyengine/bevy&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;rev = &amp;#34;11f52b8c72fc3a568e8bb4a4cd1f3eb025ac2e13&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff5c57&#34;&gt;- features = [&amp;#34;dynamic&amp;#34;]
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff5c57&#34;&gt;&lt;/span&gt;&lt;span style=&#34;font-weight:bold&#34;&gt;+ features = [&amp;#34;jpeg&amp;#34;, &amp;#34;dynamic&amp;#34;]
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;one-line-code-block&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#one-line-code-block&#34;&gt;
+        ##
+    &lt;/a&gt;
+    One line code block
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#ff6ac1&#34;&gt;p&lt;/span&gt;&amp;gt;A paragraph&amp;lt;/&lt;span style=&#34;color:#ff6ac1&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;list-types&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#list-types&#34;&gt;
+        #
+    &lt;/a&gt;
+    List Types
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;h3 id=&#34;ordered-list&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#ordered-list&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Ordered List
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;First item&lt;/li&gt;
+&lt;li&gt;Second item&lt;/li&gt;
+&lt;li&gt;Third item&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;unordered-list&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#unordered-list&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Unordered List
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;List item&lt;/li&gt;
+&lt;li&gt;Another item&lt;/li&gt;
+&lt;li&gt;And another item&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;nested-list&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#nested-list&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Nested list
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Fruit
+&lt;ul&gt;
+&lt;li&gt;Apple&lt;/li&gt;
+&lt;li&gt;Orange&lt;/li&gt;
+&lt;li&gt;Banana&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Dairy
+&lt;ul&gt;
+&lt;li&gt;Milk&lt;/li&gt;
+&lt;li&gt;Cheese&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;other-elements--abbr-sub-sup-kbd-mark&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#other-elements--abbr-sub-sup-kbd-mark&#34;&gt;
+        #
+    &lt;/a&gt;
+    Other Elements — abbr, sub, sup, kbd, mark
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;abbr title=&#34;Graphics Interchange Format&#34;&gt;GIF&lt;/abbr&gt; is a bitmap image format.&lt;/p&gt;
+&lt;p&gt;H&lt;sub&gt;2&lt;/sub&gt;O&lt;/p&gt;
+&lt;p&gt;X&lt;sup&gt;n&lt;/sup&gt; + Y&lt;sup&gt;n&lt;/sup&gt; = Z&lt;sup&gt;n&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&gt; + &lt;kbd&gt;ALT&lt;/kbd&gt; + &lt;kbd&gt;Delete&lt;/kbd&gt; to end the session.&lt;/p&gt;
+&lt;p&gt;Most &lt;mark&gt;salamanders&lt;/mark&gt; are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a href=&#34;https://www.youtube.com/watch?v=PAAkCSZUG1c&#34;&gt;talk&lt;/a&gt; during Gopherfest, November 18, 2015.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Image gallery</title>
+      <link>/post/image-gallery/</link>
+      <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/image-gallery/</guid>
+      <description>&lt;p&gt;Hugo theme Stack supports the creation of interactive image galleries using Markdown. It&amp;rsquo;s powered by &lt;a href=&#34;https://photoswipe.com/&#34;&gt;PhotoSwipe&lt;/a&gt; and its syntax was inspired by &lt;a href=&#34;https://typlog.com/&#34;&gt;Typlog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To use this feature, the image must be in the same directory as the Markdown file, as it uses Hugo&amp;rsquo;s page bundle feature to read the dimensions of the image. &lt;strong&gt;External images are not supported.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;syntax&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#syntax&#34;&gt;
+        #
+    &lt;/a&gt;
+    Syntax
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;![&lt;span style=&#34;color:#ff6ac1&#34;&gt;Image 1&lt;/span&gt;](&lt;span style=&#34;color:#57c7ff&#34;&gt;1.jpg&lt;/span&gt;) ![&lt;span style=&#34;color:#ff6ac1&#34;&gt;Image 2&lt;/span&gt;](&lt;span style=&#34;color:#57c7ff&#34;&gt;2.jpg&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;result&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#result&#34;&gt;
+        #
+    &lt;/a&gt;
+    Result
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;1.jpg&#34; alt=&#34;Image 1&#34;&gt; &lt;img src=&#34;2.jpg&#34; alt=&#34;Image 2&#34;&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Photo by &lt;a href=&#34;https://unsplash.com/@mymind&#34;&gt;mymind&lt;/a&gt; and &lt;a href=&#34;https://unsplash.com/@lukechesser&#34;&gt;Luke Chesser&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>/post/math-typesetting/</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/post/math-typesetting/</guid>
+      <description>&lt;p&gt;Stack has built-in support for math typesetting using &lt;a href=&#34;https://katex.org/&#34;&gt;KaTeX&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;It&amp;rsquo;s not enabled by default side-wide,&lt;/strong&gt; but you can enable it for individual posts by adding &lt;code&gt;math: true&lt;/code&gt; to the front matter. Or you can enable it side-wide by adding &lt;code&gt;math = true&lt;/code&gt; to the &lt;code&gt;params.article&lt;/code&gt; section in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;inline-math&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#inline-math&#34;&gt;
+        #
+    &lt;/a&gt;
+    Inline math
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;This is an inline mathematical expression: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;block-math&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#block-math&#34;&gt;
+        #
+    &lt;/a&gt;
+    Block math
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;$$
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$$&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$$
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$$
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;$$
+f(x) = \int_{-\infty}^\infty\hat f(\xi),e^{2 \pi i \xi x},d\xi
+$$&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$$
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$$
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     

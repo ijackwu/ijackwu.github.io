@@ -341,7 +341,7 @@ header h2 {
 
 .header-top-right {
     font-size:0.8em;
-    color: var(--post-info-color);
+        color: var(--post-info-color);
 }
 
 .site-title {

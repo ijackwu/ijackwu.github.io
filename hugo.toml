@@ -11,7 +11,7 @@ unsafe = true # Enable unsafe mode to have a better experience
 style = 'base16-snazzy' # Highlight.js style
 
 [params]
-description = "."
+description = "好记性不如烂笔头，记录学习、工作、生活点滴."
 dateFormat = "2006-01-02"
 paginationSinglePost = true
 
