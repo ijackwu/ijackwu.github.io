@@ -6,7 +6,7 @@
     <description>Jackwu&#39; Blog (Posts)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 25 Aug 2024 17:20:17 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 21:23:42 +0800</lastBuildDate>
     
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -24,6 +24,50 @@
 &lt;blockquote&gt;
 &lt;p&gt;Photo by &lt;a href=&#34;https://unsplash.com/@pawel_czerwinski&#34;&gt;Pawel Czerwinski&lt;/a&gt; on &lt;a href=&#34;https://unsplash.com/&#34;&gt;Unsplash&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>开发日志</title>
+      <link>/post/devlop-log/</link>
+      <pubDate>Sun, 25 Aug 2024 21:23:42 +0800</pubDate>
+      
+      <guid>/post/devlop-log/</guid>
+      <description>&lt;h2 id=&#34;微信登录&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e5%be%ae%e4%bf%a1%e7%99%bb%e5%bd%95&#34;&gt;
+        #
+    &lt;/a&gt;
+    微信登录
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;通过微信，生成二维码，用户扫码获取授权码&lt;/p&gt;
+&lt;h3 id=&#34;微信开放平台&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e5%be%ae%e4%bf%a1%e5%bc%80%e6%94%be%e5%b9%b3%e5%8f%b0&#34;&gt;
+        ##
+    &lt;/a&gt;
+    微信开放平台
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;p&gt;通过开放平台不需要页面http沦陷,不能引流到移动端，但是可以有一个好处就是如果多个应用需要信息互通可以通过此平台绑定互通，有一个unionID。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;获取tikeck&lt;/li&gt;
+&lt;li&gt;生成二维码&lt;/li&gt;
+&lt;li&gt;服务器轮训判断用户是否已经扫码&lt;/li&gt;
+&lt;li&gt;用户扫码&lt;/li&gt;
+&lt;li&gt;获取code，服务器请求换取用户信息&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;微信公众号服务号小程序&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#%e5%be%ae%e4%bf%a1%e5%85%ac%e4%bc%97%e5%8f%b7%e6%9c%8d%e5%8a%a1%e5%8f%b7%e5%b0%8f%e7%a8%8b%e5%ba%8f&#34;&gt;
+        ##
+    &lt;/a&gt;
+    微信公众号、服务号、小程序
+&lt;/div&gt;
+&lt;/h3&gt;
+&lt;p&gt;通过这几种方式有一个好处，用户可以需要先关注公众号或者打开小程序,可以算是一种引流到移动端。
+公众号、服务号、小程序都有接口生成带参数的二维码。生成的带参数二维码客户扫码之后，可以有扫码事件通知给服务器。记录此事件的返回的参数，网站前端进行http轮训，就能确定用户信息。&lt;/p&gt;
 </description>
     </item>
     
